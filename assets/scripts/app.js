@@ -20,13 +20,13 @@ const Portfolio = function() {
 				text: "python",
 				weight: 10
 			}, {
-				text: "java",
+				text: "C#",
 				weight: 9
 			}, {
-				text: "Ridwan",
+				text: "django",
 				weight: 15
 			}, {
-				text: "databases",
+				text: "relational databases",
 				weight: 7
 			},{
 				text: "mysql",
